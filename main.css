@@ -1,0 +1,26 @@
+body{
+    border: double royalblue;
+    text-align: center;
+    border-bottom-width: 12ch;
+    border-right-width: 12ch;
+    border-left-width: 12ch;
+    border-top-width: 12ch;
+}
+
+h1{
+    text-align: center;
+    font-family: 'Courier New', Courier, monospace;
+    text-shadow: 4px;
+    font-size: 250%;
+    
+    
+}
+h2{
+    text-align: center;
+    
+    text-decoration: tomato;
+    
+}
+footer{
+    font-size: 67%;
+}
